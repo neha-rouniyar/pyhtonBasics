@@ -1,0 +1,3 @@
+It returns the line as a string, including the newline character (\n) at the end. 
+If the file is opened in text mode ('r' or 'rU'), the newline character is included. In binary mode ('rb'), the newline character is not included.
+Hi Neha . How are you?
